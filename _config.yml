@@ -1,0 +1,16 @@
+# Site settings
+title: Morten Bøgh
+email: morten@justabeech.com
+description: > # this means to ignore newlines until "baseurl:"
+  My personal blog mostly about software development which I currently do most of in Swift and Ruby.
+baseurl: "" # the subpath of your site, e.g. /blog/
+permalink: /:title/
+url: "http://justabeech.com" # the base hostname & protocol for your site
+twitter_username: mbogh
+github_username:  mbogh
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
