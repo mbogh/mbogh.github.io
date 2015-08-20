@@ -4,7 +4,6 @@ title: "Debugging Xcode Live Rendering"
 date: 2014-08-05 15:52:57 +0200
 comments: false
 categories: [Xcode,iOS,Interface Builder,Swift,Nib,Debug]
-permalink: /:year/:month/:day/:title/
 ---
 
 If you have experimented with Xcode Live Rendering, you have most likely seen errors like these:

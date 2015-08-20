@@ -4,7 +4,6 @@ title: "Empty Back Button on iOS7"
 date: 2014-02-24 21:55:16 +0100
 comments: false
 categories: [iOS,UIBarButtonItem,BackButton,iOS7,UINavigationBar,UINavigationItem,UINavigationController]
-permalink: /:year/:month/:day/:title/
 ---
 On iOS7 the `UINavigationBar` features a nice little back arrow when used together with a `UINavigationItem` and/or `UINavigationController`.
 

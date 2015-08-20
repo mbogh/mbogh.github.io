@@ -4,7 +4,6 @@ title: "Auto Layout and UIRotationGestureRecognizer + UIPinchGestureRecognizer"
 date: 2014-02-11 11:51:12 +0100
 comments: false
 categories: [Auto Layout,UIRotationGestureRecognizer,UIPinchGestureRecognizer,iOS,Xcode,Storyboard,Nib,Xib]
-permalink: /:year/:month/:day/:title/
 ---
 
 On a new project I recently joined, I was given the task to implement a feature which involved panning, zooming and rotating a `UIImageView`.

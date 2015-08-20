@@ -4,7 +4,6 @@ title: "Nib Designable - Xcode Live Rendering with nibs made easy"
 date: 2014-08-02 19:20:52 +0200
 comments: false
 categories: [Xcode,iOS,Interface Builder,Swift,Nib]
-permalink: /:year/:month/:day/:title/
 ---
 
 In my previous post [Xcode 6 Live Rendering From Nib](http://justabeech.com/2014/07/27/xcode-6-live-rendering-from-nib/), we ended up with `CustomView` a `UIView` subclass backed by a nib that is supported by *Xcode Live Rendering*.

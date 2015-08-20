@@ -4,7 +4,6 @@ title: "hosts file productivity tip"
 date: 2014-10-13 19:48:10 +0200
 comments: false
 categories: [Productivity,ghost,hosts,osx,nix]
-permalink: /:year/:month/:day/:title/
 ---
 
 I often find myself revisiting the same sites over and over again when faced with a tedious task.

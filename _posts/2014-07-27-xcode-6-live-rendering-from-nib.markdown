@@ -4,7 +4,6 @@ title: "Xcode 6 Live Rendering from nib"
 date: 2014-07-27 10:09:03 +0200
 comments: false
 categories: [Xcode,iOS,Interface Builder,Swift,Nib]
-permalink: /:year/:month/:day/:title/
 ---
 
 When [Apple](http://apple.com) announced Xcode 6 at WWDC14, one feature in particular excited me namely **Xcode Live Rendering**.

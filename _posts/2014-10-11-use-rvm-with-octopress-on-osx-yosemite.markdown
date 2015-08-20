@@ -4,7 +4,6 @@ title: "Use RVM with Octopress on OSX Yosemite"
 date: 2014-10-11 23:41:08 +0200
 comments: false
 categories: [Octopress,RVM,OSX,Yosemite,Ruby]
-permalink: /:year/:month/:day/:title/
 ---
 
 When the OS X Yosemite beta was released, I did a clean install of it on my MacBook Air.

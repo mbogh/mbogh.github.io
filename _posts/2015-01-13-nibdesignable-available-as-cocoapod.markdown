@@ -4,7 +4,6 @@ title: "NibDesignable available as CocoaPod"
 date: 2015-01-13 19:18:45 +0100
 comments: false
 categories: [swift,ios,xcode,interface builder]
-permalink: /:year/:month/:day/:title/
 ---
 
 With the upcoming version [0.36](http://blog.cocoapods.org/Pod-Authors-Guide-to-CocoaPods-Frameworks/) [CocoaPods](http://cocoapods.org) there is Swift and Framework support.

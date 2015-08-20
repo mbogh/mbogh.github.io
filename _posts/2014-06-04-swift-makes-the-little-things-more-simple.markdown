@@ -4,7 +4,6 @@ title: "Swift makes the little things more simple"
 date: 2014-06-04 22:06:12 +0200
 comments: false
 categories: [iOS,WWDC,Swift,Objective-C]
-permalink: /:year/:month/:day/:title/
 ---
 On monday 2014-06-02 Apple introduced a new scripting-style programming language called [Swift](https://developer.apple.com/swift/). As an iOS developer I find this extremely interesting and looking forward to learn this new language and hopefully boost my productivity :)
 

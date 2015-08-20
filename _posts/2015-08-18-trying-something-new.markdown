@@ -3,6 +3,7 @@ layout: post
 title:  "Trying Something New"
 date:   2015-08-18 18:17:02
 categories: jekyll update
+permalink: /trying-something-new/
 ---
 A lot have been going on both personally and professionally so my blog has suffered :)
 My lovely girlfriend **Astrid** finished her education as a **Graphic Designer** in mid June and our even lovelier daughter **Esther** is turning 2 this September.

@@ -4,7 +4,6 @@ title: "Using UIVisualEffectView in a modal view controller"
 date: 2014-10-22 19:08:53 +0200
 comments: false
 categories: [iOS,Swift,Xcode,UIVisualEffectView,UIViewController]
-permalink: /:year/:month/:day/:title/
 ---
 
 If you wanted to spice up your modally presented view controllers for iOS 8 users by adding a `UIVisualEffectView` you will likely end up with the this.

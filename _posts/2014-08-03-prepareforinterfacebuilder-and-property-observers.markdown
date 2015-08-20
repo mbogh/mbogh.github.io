@@ -4,7 +4,6 @@ title: "prepareForInterfaceBuilder and property observers"
 date: 2014-08-03 21:56:00 +0200
 comments: false
 categories: [Xcode,iOS,Interface Builder,Swift]
-permalink: /:year/:month/:day/:title/
 ---
 
 If you are using the `willSet` and `didSet` property observers in combination with `@IBInspectable` and `prepareForInterfaceBuilder()` please notice that Xcode does things in this order:

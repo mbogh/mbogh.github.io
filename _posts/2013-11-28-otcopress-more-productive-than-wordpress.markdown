@@ -4,7 +4,6 @@ title: "Octopress more productive than WordPress"
 date: 2013-11-28 21:47:33 +0100
 comments: false
 categories: [Blog,Development,Octopress,WordPress]
-permalink: /:year/:month/:day/:title/
 ---
 
 Welcome to my new blog powered by Octopress.

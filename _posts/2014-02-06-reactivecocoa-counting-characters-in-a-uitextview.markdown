@@ -4,7 +4,6 @@ title: "ReactiveCocoa: Counting characters in a UITextView"
 date: 2014-02-06 19:39:10 +0100
 comments: false
 categories: [iOS,ReactiveCocoa,FRP,RACChannel]
-permalink: /:year/:month/:day/:title/
 ---
 
 In a pet project I have started working on, I have decided to use [ReactiveCocoa (RAC)](https://github.com/ReactiveCocoa/ReactiveCocoa) together with the pattern [Model View ViewModel (MVVM)](http://en.wikipedia.org/wiki/Model_View_ViewModel).
